@@ -1,2 +1,6 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: New .git file is created. You need to do so meta data is added to the folder and it can become a git repository.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It’s an intermediate between the 2. It allows you to have more control over what files from your working directory will be committed.
+
