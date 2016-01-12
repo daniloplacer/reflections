@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: New .git file is created. You need to do so meta data is added to the folder and it can become a git repository.
