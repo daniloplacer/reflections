@@ -4,3 +4,17 @@ A: New .git file is created. You need to do so meta data is added to the folder 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: It’s an intermediate between the 2. It allows you to have more control over what files from your working directory will be committed.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can edit several files, and group them into different staging areas/commit according to their logical changes.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: When creating new versions of the program. It help by keeping multiple lines of development, which can be merged or deprecated if needed.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Helps understand the interdependencies between branches
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: You make the tip of 2 branches the same.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: automatic: quick, dump; manual: slow, precise.
