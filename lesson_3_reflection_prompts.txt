@@ -8,7 +8,9 @@ A: Because you may have files in the repository being changed locally.
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-A: 
+A: Fork: creates a new version of a GitHub repository in your GitHub account
+Clone: copies a remote repository to local
+Branch: creates a new line of versions for an existing repository
 
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
