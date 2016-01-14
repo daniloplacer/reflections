@@ -4,7 +4,7 @@ A: When working from different locations or with people using different computer
 
 Q: Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-A: 
+A: Because you may have files in the repository being changed locally.
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
